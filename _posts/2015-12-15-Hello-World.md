@@ -3,8 +3,13 @@ layout: post
 title: First entry done!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The main intention is extending the scope of geoinformation in the web beyond the "natural" highlights (POI's and routes). Some examples are shown below.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+The focus is directed mainly on 
+* geodata in two- and three dimensions
+* multiscale interfaces   
+* geoSlide approach
+* integration in singlePage webapps.
+For more instructions and samples head over to the [iimaps-dev](http://iimaps.de/dev.html).
