@@ -5,7 +5,7 @@ title: What is it about!
 
 The main intention of this site is extending the scope of geoinformation in the web beyond the "natural" highlights (POI's and routes). Some examples are shown below.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+[//]: # (![_config.yml]({{ site.baseurl }}/images/config.png))
 
 The focus is directed mainly on 
 
